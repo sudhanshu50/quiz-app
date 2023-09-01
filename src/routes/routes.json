@@ -1,0 +1,6 @@
+{
+  "HOME" : "/",
+  "QUIZ" : "/quiz",
+  "RESULT": "/result",
+  "ERROR": "/error"
+}

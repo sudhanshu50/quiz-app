@@ -1,0 +1,15 @@
+.heading{
+  font-family:cursive !important;
+   background: -webkit-linear-gradient(#d65151, #7d5add);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.form{
+  margin-top:100px;
+}
+
+.btn{
+  background-color:greenyellow !important;
+  color:#0e0606 !important;
+}

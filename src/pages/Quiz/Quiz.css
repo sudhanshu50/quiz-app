@@ -1,0 +1,25 @@
+
+
+.name{
+  font-family:cursive !important;
+  background: -webkit-linear-gradient(#ac39a3, #b8f55c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.que{
+  color:#d6b8b8;
+}
+
+.Wrong{
+  color:#e61919;
+}
+
+.Correct{
+  color:#3cdd4f;
+}
+
+.opt{
+  background-color:blue !important;
+  font-size:15px !important;
+}
